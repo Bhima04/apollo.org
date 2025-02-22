@@ -2,7 +2,7 @@ git init
    git add .
    git commit -m "Initial commit"
    git branch -M main
-   git remote add origin https://github.com/yourusername/hexacomm.git
+   git remote add origin https://github.com/Bhima04/apollo.org.git
    git push -u origin main
    ```
 
